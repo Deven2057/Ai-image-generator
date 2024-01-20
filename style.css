@@ -1,1 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Optional: Set height to 100% of the viewport height for vertical centering */
+}
 
+.centered-content {
+  /* Your content styles go here */
+}
